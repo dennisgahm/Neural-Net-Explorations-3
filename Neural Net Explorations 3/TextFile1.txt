@@ -1,0 +1,8 @@
+﻿Set of IfStatement classes, and each if statement has to have all it's conditions run true.
+
+For example:
+	IfStatement daytime
+		SkyIsBlue - True
+		SkyisBlack - False
+		SunIsOut - True
+		Etc.
